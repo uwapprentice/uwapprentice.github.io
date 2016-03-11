@@ -60,6 +60,10 @@ p {
     background-color: #222;
 }
 
+.bg-light {
+    background-color: #F6F6F6;
+}
+
 .panel-body {
     color: black;
 }
